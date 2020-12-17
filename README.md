@@ -2,4 +2,6 @@
 
 Olá Humanos!
 
-Teste de alteração de Branchs (Filiais).
+Tudo entendido com o uso do Branchs.
+
+Só saber como funciona para a lógica daqui.
